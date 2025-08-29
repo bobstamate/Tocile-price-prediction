@@ -1,6 +1,6 @@
 # Tocile House Price Prediction
 
-This project contains an R script that estimates house prices in the village of Tocile, Romania, using linear regression combined with bootstrap simulations.
+This project contains an R script that estimates house prices in the village of Tocile, Romania, using linear regression combined with bootstrap simulations. I gathered the data using a Chrome extension and searching through the best known real estate page in Romania, exported the relevant parameters in an Excel file and using R to estimate a price range. The idea to do this came after long discussions with my family about how we can set a fair price to sell the house.
 
 ## What the script does
 
